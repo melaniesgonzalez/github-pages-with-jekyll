@@ -1,3 +1,7 @@
+---
+title: "ERB and Jeopardy"
+date: 2019-01-20
+---
 One of my favorite Youtube channels is called Epic Rap Battles of History (ERB for short); in each video, two or more historical figures (sometimes contemporaries of each other, many times not) face off in a rap battle where they trade clever insults for 2-8 minutes. It's quite entertaining and I've always admired how adept the channel creators are at weaponining facts about each historical figure through the lyrics they write.
 
 Why am I bringing this channel up? Well, last week, my husband and I watched the Jeopardy Turnament of Champions. I was beyond blown away by the amount of trivia that each contestant knew. I wondered what it must take for someone to be able to commit that much information to memory and selectively access it at a moment's notice. I figured that that kind of mental prowess was probably only reserved for the type of people who participated in trivia bowls and studied history for fun as children. [*Kudos to those folks by the way. People dream of being able to make money off of their hobbies. If you ever make it onto Jeopardy, those years of knowledge-building could really pay off!*]
